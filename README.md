@@ -13,8 +13,7 @@
 - Django
 - HTML, CSS, JavaScript
 - PHP
-- MySQL
-- Bootstrap, JQuery
+- Bootstrap
 
 #### Programming Languages:
 - C++
