@@ -1,9 +1,3 @@
-Perfect — based on your **academic background** (Master’s in *Managerial Leadership, Innovation & AI in Management* + Bachelor’s in *Application Development Engineering*), I’ll now **update your README** to reflect both your **technical and leadership sides** — combining **software engineering, AI, and innovation** in a clean, professional GitHub profile style.
-
-Here’s the fully updated version 👇
-
----
-
 ![Aspiring Software Engineer](https://i.pinimg.com/564x/b6/15/12/b6151282316ee9915197e843bcb1c072.jpg)
 
 # 👋 Hey there! I'm Samia
